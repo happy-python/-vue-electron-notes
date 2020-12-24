@@ -1,6 +1,6 @@
 # vue-electron-notes
 
-## 安装依赖
+### 安装依赖
 ```
 yarn install
 ```
